@@ -1,0 +1,22 @@
+@keyframes icolor {
+    0%{
+        color: yellow;
+    }
+    50%{
+        color: green;
+    }
+    100%{
+        color: blue;
+    }
+}
+#slavik{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+h1 {
+    margin: auto;
+    animation: icolor 5c infinite;
+}
+
+    
